@@ -20,6 +20,7 @@ public class Tree {
 	public void cut (int x) {
 		
 		height = x--;
+		System.out.println("foi cortada");
 	}
 	
 }
