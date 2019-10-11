@@ -11,5 +11,10 @@ public class Rmmss {
 		System.out.println("TEST2");
 		
 	}
+	
+	void test3() {
+		System.out.println("TEST3");
+		
+	}
 
 }
