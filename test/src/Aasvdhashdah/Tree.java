@@ -17,4 +17,9 @@ public class Tree {
 		this.height = height;
 	}
 	
+	public void cut (int x) {
+		
+		height = x--;
+	}
+	
 }
