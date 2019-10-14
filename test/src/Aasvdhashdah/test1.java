@@ -1,5 +1,7 @@
 package Aasvdhashdah;
 
 public class test1 {
-	asad
+	public static void  main() {
+		System.out.println("Testing");
+	}
 }
